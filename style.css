@@ -1,4 +1,4 @@
-body {background-color:cornflowerblue;
+body {background-image: linear-gradient(blue, white);
 color: darkblue; }
 h1,h2 {text-align: center;}
 .home-image{
