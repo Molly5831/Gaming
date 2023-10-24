@@ -1,7 +1,8 @@
-body {background-color: aquamarine;
-color: darkblue;}
+body {background-color:cadetblue;
+color: darkblue; }
 h1,h2 {text-align: center;}
 .home-image{
     width: 50%;
 }
 .container{ text-align: center;}
+.mine{text-align: center; }
